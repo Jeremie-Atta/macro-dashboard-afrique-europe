@@ -1,0 +1,61 @@
+iso3,country,indicator_name,min_year,max_year,n_years,missing_count,missing_rate
+CIV,Cote d'Ivoire,Public_debt_pct_GDP,2000,2024,25,25,1.0
+DEU,Germany,Public_debt_pct_GDP,2000,2024,25,25,1.0
+FRA,France,Public_debt_pct_GDP,2000,2024,25,25,1.0
+GHA,Ghana,Public_debt_pct_GDP,2000,2024,25,25,1.0
+ITA,Italy,Public_debt_pct_GDP,2000,2024,25,25,1.0
+KEN,Kenya,Public_debt_pct_GDP,2000,2024,25,25,1.0
+SEN,Senegal,Public_debt_pct_GDP,2000,2024,25,25,1.0
+ZAF,South Africa,Public_debt_pct_GDP,2000,2024,25,15,0.6
+ESP,Spain,Public_debt_pct_GDP,2000,2024,25,1,0.04
+CIV,Cote d'Ivoire,GDP_Growth_pct,2000,2024,25,0,0.0
+CIV,Cote d'Ivoire,GDP_USD,2000,2024,25,0,0.0
+CIV,Cote d'Ivoire,GDP_per_capita_USD,2000,2024,25,0,0.0
+CIV,Cote d'Ivoire,Inflation_pct,2000,2024,25,0,0.0
+CIV,Cote d'Ivoire,Unemployment_pct,2000,2024,25,0,0.0
+DEU,Germany,GDP_Growth_pct,2000,2024,25,0,0.0
+DEU,Germany,GDP_USD,2000,2024,25,0,0.0
+DEU,Germany,GDP_per_capita_USD,2000,2024,25,0,0.0
+DEU,Germany,Inflation_pct,2000,2024,25,0,0.0
+DEU,Germany,Unemployment_pct,2000,2024,25,0,0.0
+ESP,Spain,GDP_Growth_pct,2000,2024,25,0,0.0
+ESP,Spain,GDP_USD,2000,2024,25,0,0.0
+ESP,Spain,GDP_per_capita_USD,2000,2024,25,0,0.0
+ESP,Spain,Inflation_pct,2000,2024,25,0,0.0
+ESP,Spain,Unemployment_pct,2000,2024,25,0,0.0
+FRA,France,GDP_Growth_pct,2000,2024,25,0,0.0
+FRA,France,GDP_USD,2000,2024,25,0,0.0
+FRA,France,GDP_per_capita_USD,2000,2024,25,0,0.0
+FRA,France,Inflation_pct,2000,2024,25,0,0.0
+FRA,France,Unemployment_pct,2000,2024,25,0,0.0
+GBR,United Kingdom,GDP_Growth_pct,2000,2024,25,0,0.0
+GBR,United Kingdom,GDP_USD,2000,2024,25,0,0.0
+GBR,United Kingdom,GDP_per_capita_USD,2000,2024,25,0,0.0
+GBR,United Kingdom,Inflation_pct,2000,2024,25,0,0.0
+GBR,United Kingdom,Public_debt_pct_GDP,2000,2024,25,0,0.0
+GBR,United Kingdom,Unemployment_pct,2000,2024,25,0,0.0
+GHA,Ghana,GDP_Growth_pct,2000,2024,25,0,0.0
+GHA,Ghana,GDP_USD,2000,2024,25,0,0.0
+GHA,Ghana,GDP_per_capita_USD,2000,2024,25,0,0.0
+GHA,Ghana,Inflation_pct,2000,2024,25,0,0.0
+GHA,Ghana,Unemployment_pct,2000,2024,25,0,0.0
+ITA,Italy,GDP_Growth_pct,2000,2024,25,0,0.0
+ITA,Italy,GDP_USD,2000,2024,25,0,0.0
+ITA,Italy,GDP_per_capita_USD,2000,2024,25,0,0.0
+ITA,Italy,Inflation_pct,2000,2024,25,0,0.0
+ITA,Italy,Unemployment_pct,2000,2024,25,0,0.0
+KEN,Kenya,GDP_Growth_pct,2000,2024,25,0,0.0
+KEN,Kenya,GDP_USD,2000,2024,25,0,0.0
+KEN,Kenya,GDP_per_capita_USD,2000,2024,25,0,0.0
+KEN,Kenya,Inflation_pct,2000,2024,25,0,0.0
+KEN,Kenya,Unemployment_pct,2000,2024,25,0,0.0
+SEN,Senegal,GDP_Growth_pct,2000,2024,25,0,0.0
+SEN,Senegal,GDP_USD,2000,2024,25,0,0.0
+SEN,Senegal,GDP_per_capita_USD,2000,2024,25,0,0.0
+SEN,Senegal,Inflation_pct,2000,2024,25,0,0.0
+SEN,Senegal,Unemployment_pct,2000,2024,25,0,0.0
+ZAF,South Africa,GDP_Growth_pct,2000,2024,25,0,0.0
+ZAF,South Africa,GDP_USD,2000,2024,25,0,0.0
+ZAF,South Africa,GDP_per_capita_USD,2000,2024,25,0,0.0
+ZAF,South Africa,Inflation_pct,2000,2024,25,0,0.0
+ZAF,South Africa,Unemployment_pct,2000,2024,25,0,0.0

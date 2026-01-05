@@ -1,0 +1,7 @@
+pandas
+wbdata
+pycountry
+requests
+streamlit
+altair
+pyarrow

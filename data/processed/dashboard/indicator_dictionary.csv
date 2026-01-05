@@ -1,0 +1,7 @@
+indicator,indicator_name
+NY.GDP.MKTP.KD.ZG,GDP_Growth_pct
+NY.GDP.MKTP.CD,GDP_USD
+NY.GDP.PCAP.CD,GDP_per_capita_USD
+FP.CPI.TOTL.ZG,Inflation_pct
+GC.DOD.TOTL.GD.ZS,Public_debt_pct_GDP
+SL.UEM.TOTL.ZS,Unemployment_pct

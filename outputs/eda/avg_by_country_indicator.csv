@@ -1,0 +1,54 @@
+iso3,country,region_group,indicator_name,avg_value
+CIV,Cote d'Ivoire,Afrique,GDP_Growth_pct,3.838543892069749
+CIV,Cote d'Ivoire,Afrique,GDP_USD,43282524487.08552
+CIV,Cote d'Ivoire,Afrique,GDP_per_capita_USD,1709.5261079755992
+CIV,Cote d'Ivoire,Afrique,Inflation_pct,2.569955827769037
+CIV,Cote d'Ivoire,Afrique,Unemployment_pct,4.47868
+DEU,Germany,Europe,GDP_Growth_pct,1.114121503188783
+DEU,Germany,Europe,GDP_USD,3491213412700.335
+DEU,Germany,Europe,GDP_per_capita_USD,42435.35690487216
+DEU,Germany,Europe,Inflation_pct,1.8995292457384902
+DEU,Germany,Europe,Unemployment_pct,6.202319999999999
+ESP,Spain,Europe,GDP_Growth_pct,1.799864389649596
+ESP,Spain,Europe,GDP_USD,1283147468426.3796
+ESP,Spain,Europe,GDP_per_capita_USD,27905.400143475377
+ESP,Spain,Europe,Inflation_pct,2.37682132021222
+ESP,Spain,Europe,Public_debt_pct_GDP,76.85488941892966
+ESP,Spain,Europe,Unemployment_pct,15.3698
+FRA,France,Europe,GDP_Growth_pct,1.3802498558277896
+FRA,France,Europe,GDP_USD,2498811410077.1104
+FRA,France,Europe,GDP_per_capita_USD,38079.23816192467
+FRA,France,Europe,Inflation_pct,1.7073354352241543
+FRA,France,Europe,Unemployment_pct,8.826519999999999
+GBR,United Kingdom,Europe,GDP_Growth_pct,1.6873275267197194
+GBR,United Kingdom,Europe,GDP_USD,2698589357733.0483
+GBR,United Kingdom,Europe,GDP_per_capita_USD,42200.13760219092
+GBR,United Kingdom,Europe,Inflation_pct,2.4617002460643183
+GBR,United Kingdom,Europe,Public_debt_pct_GDP,128.47664968868585
+GBR,United Kingdom,Europe,Unemployment_pct,5.42856
+GHA,Ghana,Afrique,GDP_Growth_pct,5.58024750288483
+GHA,Ghana,Afrique,GDP_USD,42494739160.15766
+GHA,Ghana,Afrique,GDP_per_capita_USD,1459.1743061053867
+GHA,Ghana,Afrique,Inflation_pct,17.77294428878759
+GHA,Ghana,Afrique,Unemployment_pct,5.06148
+ITA,Italy,Europe,GDP_Growth_pct,0.5683452855648394
+ITA,Italy,Europe,GDP_USD,1970367331574.0605
+ITA,Italy,Europe,GDP_per_capita_USD,33288.731962405174
+ITA,Italy,Europe,Inflation_pct,2.0386588911487995
+ITA,Italy,Europe,Unemployment_pct,9.205359999999999
+KEN,Kenya,Afrique,GDP_Growth_pct,4.348092254646262
+KEN,Kenya,Afrique,GDP_USD,59017442268.950294
+KEN,Kenya,Afrique,GDP_per_capita_USD,1246.774304755495
+KEN,Kenya,Afrique,Inflation_pct,8.448997418353624
+KEN,Kenya,Afrique,Unemployment_pct,3.52604
+SEN,Senegal,Afrique,GDP_Growth_pct,4.191991933298758
+SEN,Senegal,Afrique,GDP_USD,17842309021.295605
+SEN,Senegal,Afrique,GDP_per_capita_USD,1244.9969482413192
+SEN,Senegal,Afrique,Inflation_pct,2.1051527773764347
+SEN,Senegal,Afrique,Unemployment_pct,3.4072000000000005
+ZAF,South Africa,Afrique,GDP_Growth_pct,2.2220803831165896
+ZAF,South Africa,Afrique,GDP_USD,333092429817.61206
+ZAF,South Africa,Afrique,GDP_per_capita_USD,6042.486157577037
+ZAF,South Africa,Afrique,Inflation_pct,5.244913449440751
+ZAF,South Africa,Afrique,Public_debt_pct_GDP,63.14407851567519
+ZAF,South Africa,Afrique,Unemployment_pct,25.815479999999997
